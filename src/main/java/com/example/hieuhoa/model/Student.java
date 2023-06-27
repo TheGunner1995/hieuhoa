@@ -23,4 +23,5 @@ public class Student {
     private int age;
     private String address;
     private boolean sex;
+    private  String phone;
 }
